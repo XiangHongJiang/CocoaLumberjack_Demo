@@ -1,0 +1,17 @@
+//
+//  PrefixHeader.pch
+//  CocoaLumberjack_Demo
+//
+//  Created by JXH on 2020/12/23.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+//log相关
+#import "LogHeader_Pch.h"
+
+//#import <YYKit.h>
+//#define Umeng_AppKey @"5fe15d1c0b4a4938464ddf3c"
+
+#endif /* PrefixHeader_pch */
